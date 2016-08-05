@@ -1,0 +1,46 @@
+_repo: Wanderers_7762
+_version: 0.0.1
+alternative_title: Under hølststjaernen. English
+contributor:
+  translator:
+    agent_name: Worster, W. J. Alexander (William John Alexander)
+    aliases:
+    - Worster, W. W.
+    - Worster, William John Alexander
+    birthdate: 1882
+    deathdate: 1929
+    gutenberg_agent_id: '2514'
+    url: http://www.gutenberg.org/2009/agents/2514
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Thode, Knut
+    - Hamsund, Knut Pedersen
+    - Gamsun, Knut
+    - Pedersen, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Under the autumn star -- A wanderer plays on muted strings.
+title: Wanderers
+url: http://www.gutenberg.org/ebooks/7762
